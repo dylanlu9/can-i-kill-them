@@ -1,2 +1,2 @@
-# can-i-kill-them
+# smite-can-i-kill-them
 An Android application for Smite players.
